@@ -12,24 +12,18 @@ update @ 2020/01/10
 ex : 
 
 ,current: 759, approach : 770
+
 ,current: 759, approach : 769
-,current: 759, approach : 769
-,current: 759, approach : 769
-,current: 759, approach : 769
-,current: 759, approach : 769
-,current: 759, approach : 769
-,current: 759, approach : 769
+
 ,current: 759, approach : 768
-,current: 759, approach : 768
-,current: 759, approach : 768
-,current: 759, approach : 768
-,current: 759, approach : 768
-,current: 759, approach : 768
-,current: 759, approach : 768
-,current: 759, approach : 768
-,current: 759, approach : 768
+
 ,current: 759, approach : 767
-,current: 759, approach : 767
+
+,current: 759, approach : 766
+
+,current: 759, approach : 765
+
+,current: 759, approach : 764
 
 ----------------------------------------
 
